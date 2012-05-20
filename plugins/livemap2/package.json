@@ -2,6 +2,11 @@
 	"name": "xi4n-livemap2",
 	"version": "0.0.1",
 	"main": "./livemap2.js",
+	"dependencies": {
+		"socket.io": "*",
+		"express": "*",
+		"underscore": "*"
+	},
 	"engine": {
 		"node": ">=0.4"
 	}

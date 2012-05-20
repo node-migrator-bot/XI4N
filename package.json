@@ -23,7 +23,8 @@
 		"jspack": "*",
 		"commander": "*",
 		"semver": "*",
-		"glob": "*"
+		"glob": "*",
+		"npm": "*"
 	},
 	"bundleDependencies": [
 	],
